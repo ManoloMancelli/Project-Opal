@@ -2,9 +2,9 @@
 A DiY Injection Molding Machine
 
 ## Version 1.0
-[!1](/img/1.jpg)
-[!1](/img/2.jpg)
-[!1](/img/3.jpg)
+![1](/img/1.jpg)
+![1](/img/2.jpg)
+![1](/img/3.jpg)
 
 ### Current State
 - Very basic functionality
